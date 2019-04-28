@@ -1,5 +1,4 @@
 # rains-iot-mqtt
-==========================
 ![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
 [![Build Status](https://travis-ci.org/hugoDD/rains-mqtt.svg?branch=master)](https://travis-ci.org/hugoDD/rains-mqtt)
 
