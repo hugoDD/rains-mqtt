@@ -1,4 +1,7 @@
 # rains-iot-mqtt
+==========================
+![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
+[![Build Status](https://travis-ci.org/hugoDD/rains-mqtt.svg?branch=master)](https://travis-ci.org/hugoDD/rains-mqtt)
 
 #### 项目介绍
 轻量级物联网MQTT服务器, 快速部署, 支持集群(待实现，规划使用sofa-jraft内部选举，不依赖外部).
